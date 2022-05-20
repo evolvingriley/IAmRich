@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/iamrich/iamrich.iml" filepath="$PROJECT_DIR$/iamrich/iamrich.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iamrich/android/iamrich_android.iml" filepath="$PROJECT_DIR$/iamrich/android/iamrich_android.iml" />
+    </modules>
+  </component>
+</project>
